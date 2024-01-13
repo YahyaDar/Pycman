@@ -1,0 +1,5 @@
+# IDE Configs
+.idea/
+
+# Virtual Environment
+env/
